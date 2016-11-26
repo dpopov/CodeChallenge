@@ -15,7 +15,7 @@
 <!-- /TOC -->
 
 ## **General Directions**
-Start by creating a new feature branch with your name. Follow our Code Style guidelines to complete **News of the Day** challenge (explained below). Once you're done create a pull-request to submit your work.
+Setup your own project and follow our Code Style guidelines to complete **News of the Day** challenge (explained below). Once you're done send us a link to your GitHub or a zip of the project folder to crusoeventures@gmail.com.
 
 -Happy Coding!
 
